@@ -7,9 +7,9 @@ void main()
         for(j=1;j<=i;j++)
         {
             if(i==5&&j==3)
-            printf("🥰");
+            printf("A");
             else
-            printf("😊");
+            printf("*");
         }
         printf("\n");
     }
